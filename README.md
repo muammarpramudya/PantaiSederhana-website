@@ -10,7 +10,7 @@ Website Desa Pantai Sederhana merupakan situs tentang profil Desa Pantai Sederha
 - Sasaran  : Khalayak umum
 - Luaran   : Website Desa Pantai Sederhana
 
-## Developer dan Job Desc
+## Developer 
 
 | NIM       | Nama                    |
 | --------- | ----------------------- |
